@@ -1,0 +1,15 @@
+arrow
+jupyter
+
+pandas
+matplotlib
+openpyxl
+requests
+
+gremlinpython==3.4.10
+#gremlinpython==3.5.1
+tornado==6.1
+
+nest_asyncio
+# https://www.markhneedham.com/blog/2019/05/10/jupyter-runtimeerror-this-event-loop-is-already-running/
+
