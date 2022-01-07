@@ -1,13 +1,19 @@
 # azure-jupyter
 
-jupyter
+Run **jupyter notebooks** on your laptop/workstation
+and optionally access **Azure** services such as **CosmosDB**.
 
 ## Links
 
+- https://jupyter.org/
 - https://code.visualstudio.com/docs/datascience/jupyter-notebooks
-- https://the9090rule.medium.com/loading-cosmos-db-graph-with-data-885f395288f0
-- https://www.markhneedham.com/blog/2019/05/10/jupyter-runtimeerror-this-event-loop-is-already-running/
 
+## Getting Started
+
+```
+git clone 
+
+```
 
 ### Unused Libraries
 
