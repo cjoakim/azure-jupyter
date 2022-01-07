@@ -6,6 +6,8 @@ jupyter
 
 - https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 - https://the9090rule.medium.com/loading-cosmos-db-graph-with-data-885f395288f0
+- https://www.markhneedham.com/blog/2019/05/10/jupyter-runtimeerror-this-event-loop-is-already-running/
+
 
 ### Unused Libraries
 

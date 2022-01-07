@@ -17,7 +17,7 @@ if __name__ == "__main__":
         dbname = 'december'
         graph  = 'rdf1'
         url    = 'wss://{}.gremlin.cosmosdb.azure.com:443/'.format(acct)
-        username = 'dbs/{}/colls/{}'.format(dbname, graph)
+        username = '/dbs/{}/colls/{}'.format(dbname, graph)
 
         print('acct: {}'.format(acct))
         print('key:  {}'.format(key))
