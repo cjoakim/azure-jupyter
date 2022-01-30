@@ -8,6 +8,8 @@ matplotlib
 openpyxl
 requests
 
+Seaborn
+
 #gremlinpython==3.4.10
 gremlinpython
 tornado==6.1
